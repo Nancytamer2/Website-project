@@ -1,0 +1,21 @@
+h1{
+    color:rgb(2, 2, 54) ;
+    text-align: left;
+    font-size: 29px;
+}
+head,body{
+   background-image:url(Travel\ pic2.jpg);
+
+}
+p{
+    font-weight: bold;
+    font-size: 18px ;
+    text-decoration: underline;
+    color: rgb(9, 34, 136);
+    text-align: left;
+}
+#brif{
+  text-decoration: none;
+  color: rgb(12, 12, 86);
+  font-size: 22px ;
+}
